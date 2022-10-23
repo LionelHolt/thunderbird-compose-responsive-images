@@ -10,9 +10,9 @@ let observer = new MutationObserver(function(mutations) {
       for (let target of mutation.addedNodes) {
 				if (target.nodeName == "IMG") {
 					try {
+						target.setAttribute("style", "max-width:100%");
 						target.removeAttribute("width");
 						target.removeAttribute("height");
-						target.setAttribute("style", "max-width:100%");
 					}
 					catch (err) {
 						console.log(err);

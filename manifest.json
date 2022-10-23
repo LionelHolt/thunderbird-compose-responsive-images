@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
-	"name": "Responsive Images",
-	"description": "Thunderbird extension removes width/height and sets max-width:100% for images inserted into compose window.",
+	"name": "Compose Responsive Images",
+	"description": "When writing new emails, this add-on makes images responsive by setting style=""max-width:100%"" and removing width/height attributes.",
 	"version": "1.0",
 	"author": "Lionel Holt",
 	"applications": {
