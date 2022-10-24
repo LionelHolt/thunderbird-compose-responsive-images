@@ -1,12 +1,12 @@
 {
 	"manifest_version": 2,
 	"name": "Compose Responsive Images",
+	"version": "0.5",
 	"description": "When writing new emails, this add-on makes images responsive by setting style=\"max-width:100%\" and removing width/height attributes.",
-	"version": "0.4",
 	"author": "Lionel Holt",
 	"applications": {
 		"gecko": {
-			"id": "lionel@treetix.com",
+			"id": "compose-responsive-images@lionel-holt.addons.thunderbird.net",
 			"strict_min_version": "102.0"
 		}
 	},
@@ -17,5 +17,10 @@
 	},
 	"permissions": [
 		"compose"
-	]
+	],
+  "icons": {
+    "16": "content/icon16.png",
+    "32": "content/icon32.png",
+    "64": "content/icon64.png"
+  }
 }
