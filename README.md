@@ -6,7 +6,7 @@ makes newly inserted images in the compose window
 responsive by setting style="max-width:100%" (without overwriting existing styles if any)
 and removing width/height attributes of the &lt;img&gt; tag.
 
-https://img.shields.io/badge/Thunderbird%20102-v0.10%20(beta)-c70039
+![TB102](https://img.shields.io/badge/Thunderbird%20102-v0.10%20(beta)-c70039)
 [![License: GPL 3.0](https://img.shields.io/badge/License-GPL%203.0-red.png)](https://opensource.org/licenses/GPL-3.0)
 
 ## Installation
