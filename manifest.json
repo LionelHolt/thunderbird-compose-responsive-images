@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Compose Responsive Images",
-	"version": "0.5",
+	"version": "0.6",
 	"description": "When writing new emails, this add-on makes images responsive by setting style=\"max-width:100%\" and removing width/height attributes.",
 	"author": "Lionel Holt",
 	"applications": {
@@ -17,10 +17,5 @@
 	},
 	"permissions": [
 		"compose"
-	],
-  "icons": {
-    "16": "content/icon16.png",
-    "32": "content/icon32.png",
-    "64": "content/icon64.png"
-  }
+	]
 }
