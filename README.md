@@ -19,7 +19,6 @@ Click the big green ``+ Add to Thunderbird`` button then follow the prompts to i
 ## Credits
 
 Author: Lionel Holt
-
 <html>
 <div>
 Image by <a href="https://pixabay.com/users/mocho-156870/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=314153">Michal</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=314153">Pixabay</a>
