@@ -8,7 +8,7 @@ let config = {
 let observer = new MutationObserver(function(mutations) {
   for (let mutation of mutations) {
     if (mutation.addedNodes && mutation.addedNodes.length) {
-			let strNodes = mutation.addedNodes.length == 1 ? "node" : "nodes";
+			// let strNodes = mutation.addedNodes.length == 1 ? "node" : "nodes";
 			// console.log(`[CRI] ${mutation.addedNodes.length} ${strNodes} added`);
       for (let target of mutation.addedNodes) ProcessNodes(target);
     }
